@@ -1,6 +1,6 @@
 <h1>TODO List</h1>
 
-<p>API para gerenciar tarefas (CRUD) que faz parte de um desafio para pessoas desenvolvedoras backend júnior, que se candidatam para a Simplify.</p>
+<p>API para gerenciar tarefas (CRUD) que faz parte desse desafio para pessoas desenvolvedoras backend júnior, que se candidatam para a Simplify.</p>
 
 <h2>Tecnologias</h2>
 <ul>
